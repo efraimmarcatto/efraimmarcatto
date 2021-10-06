@@ -13,20 +13,20 @@
     </tr>
     <tr>
         <td>
-            <img alt="Python" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-            <img alt="Javascript" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            <img alt="Dart" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+            <a href="https://www.python.org"><img alt="Python" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+           <a href="https://www.javascript.com"> <img alt="Javascript" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+            <a href="https://dart.dev"><img alt="Dart" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></a>
         </td>
         <td>
-            <img alt="React" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-            <img alt="Flutter" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+            <a href="https://reactjs.org"> <img alt="React" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+            <a href="https://flutter.dev"><img alt="Flutter" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
         </td>
     </tr>
 </table>
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efraimmarcatto&hide=php&layout=compact&theme=dracula)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efraimmarcatto&hide=php&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hobby
 ### Game DEV
@@ -41,4 +41,4 @@ Have you ever heard about Godot engine?
 
 ## Let's have fun coding!!!
 
-<img height="150em" src="https://media.giphy.com/media/xiN7gD9cxUUl2fmRLa/giphy.gif">
+<a href="https://www.twitch.tv/efraimmarcatto"><img height="150em" src="https://media.giphy.com/media/xiN7gD9cxUUl2fmRLa/giphy.gif"></a>
