@@ -1,4 +1,6 @@
-## Hello...
+[![Hello there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)](mailto:efraimmarcatto@gmail.com?subject=Hello%20there!!)
+
+## Hello there...
 - 🚀 I’m currently working on INCO Investimentos.
 - 📚 I’m learning Flutter/Dart.
 
