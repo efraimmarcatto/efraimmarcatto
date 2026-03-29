@@ -79,7 +79,6 @@ I enjoy building things that are both **useful** and **fun**.
 I'm currently working on indie game projects that are not public yet.
 
 They are still in development, but the plan is to start releasing them soon.
-This GitHub is where I share a bit of my journey as a developer while those projects get ready to meet the world.
 
 ### 🛠 Software and experiments
 
